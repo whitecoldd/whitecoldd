@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whitecoldd (Vladimir)</h1>
 <h3 align="center">A frontend, backend developer from Moldova</h3>
 
-- 🌱 I’m currently learning **react.js and node.js**
+- 🌱 I’m currently learning **React Native and Firebase**
 
 - 📫 How to reach me **buyukliwc@gmail.com**
 
